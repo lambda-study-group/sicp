@@ -6,7 +6,7 @@
 * [Curso do MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
   * [Aulas em vídeo](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
   * [Anotações das aulas](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/)
-  * [correlação das aulas com o livro](http://community.schemewiki.org/?sicp-text-to-video-map)
+  * [Correlação das aulas com o livro](http://community.schemewiki.org/?sicp-text-to-video-map)
 
 ## Soluções dos exercícios
 
