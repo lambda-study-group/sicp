@@ -3,6 +3,7 @@
 ## Material
 * [Livro online](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Versão em PDF/LaTex](https://github.com/sarabander/sicp-pdf)
+* [Versão Online/Interativa](https://xuanji.appspot.com/isicp/)
 * [Curso do MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
   * [Aulas em vídeo](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
   * [Anotações das aulas](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/lecture-notes/)
