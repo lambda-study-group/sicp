@@ -7,4 +7,4 @@ The exponentiation algorithms in this section are based on performing exponentia
       (+ a (* a (- b 1)))))
 ```
 
-This algorithm takes a number of steps that is linear in b. Now suppose we include, together with addition, operations double, which doubles an integer, and halve, which divides an (even) integer by 2. Using these, design a multiplication procedure analogous to fast-expt that uses a logarithmic number of steps.
+This algorithm takes a number of steps that is linear in `b`. Now suppose we include, together with addition, operations `double`, which doubles an integer, and `halve`, which divides an `(even)` integer by 2. Using these, design a multiplication procedure analogous to `fast-expt` that uses a logarithmic number of steps.
