@@ -1,5 +1,7 @@
 # SICP - Structure and Interpretation of Computer Programs
 
+![Image of SICP](sicp.png)
+
 ## Material
 * [Livro online](https://mitpress.mit.edu/sicp/full-text/book/book.html)
 * [Versão em PDF/LaTex](https://github.com/sarabander/sicp-pdf)
