@@ -7,4 +7,4 @@
        (p (sine (/ angle 3.0)))))
 
 ; a) 7 Vezes
-; b) É logaritmico log3(n) pois p é chamado somente até quando a divisao do angulo esta acima de 0.1.
+; b) É logaritmico log3(n) pois p é chamado somente até quando a divisao do angulo esta acima de 0.1
